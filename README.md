@@ -21,7 +21,7 @@
 </p>
 
 🔭 I’m currently working on
-  - [`exchange_calendars_extensions`](https://github.com/jenskeiner/exchange_calendars_extensions): A Python package that transparently adds some extension to the [`exchange_calendars`](https://github.com/gerrymanoim/exchange_calendars) package.
+  - [`exchange_calendars_extensions`](https://github.com/jenskeiner/exchange_calendars_extensions): A Python package that transparently adds some extensions to the [`exchange_calendars`](https://github.com/gerrymanoim/exchange_calendars) package. Notably, this package provides a way to modify calendars at runtime.
   - [`exchange_calendar-service`](https://github.com/jenskeiner/exchange_calendar_service): A [FastAPI](https://github.com/tiangolo/fastapi)-based web service that builds on top of [`exchange_calendars_extensions`](https://github.com/jenskeiner/exchange_calendars_extensions)
     to provide a simple HTTP API for advanced querying of exchange calendars.
   - [ghcr.io Container Repository Cleanup Action](https://github.com/jenskeiner/ghcr-container-repository-cleanup-action): A GitHub action to perform maintenance on ghcr.io container repositories.
